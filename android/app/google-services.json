@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17010543453",
+    "project_id": "attendance-system-a7681",
+    "storage_bucket": "attendance-system-a7681.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17010543453:android:801d5c1ccfdf58ab38f6b4",
+        "android_client_info": {
+          "package_name": "com.parallelbox.attendance_with_bio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17010543453-89hkep07gqqo0usbpn68s1ofe6q79k1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdbX03Zqu-u_9S6gdO19j8iKfGeji6ywo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17010543453-89hkep07gqqo0usbpn68s1ofe6q79k1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
